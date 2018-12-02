@@ -36,8 +36,8 @@
 #include "AutoLight.cginc"
 #include "UnityCG.cginc"
 
-		// Properties
-		sampler2D _MainTex;
+	// Properties
+	sampler2D _MainTex;
 	sampler2D _RampTex;
 	float4 _Color;
 	float4 _LightColor0; // provided by Unity
